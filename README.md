@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imadghe
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python, and i finished the basics of C
 - 💞️ I’m looking to collaborate on ... to finish this language soon and start some project
 - 📫 How to reach me ... i got all sociale media accounts ( fb ig snap telegram whatsApp ..)
 
